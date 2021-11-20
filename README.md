@@ -9,7 +9,10 @@
 ## [Live Demo](https://fobadara.github.io/Our-dishes/dist)
 
 
-In this project we developed a restuarant application using two API's. Themealdb API was used to retrieve data from a remote server and the involvement API which was used to record the different user interactions (likes, comments and reservations). We created a [video](./media/jscapstone.mp4) talking about the site and the API used.
+## [Project Video](https://drive.google.com/file/d/1g859BdBXXA_kUgZpWbVcvIMRDsXIsBID/view?usp=sharing)
+
+
+In this project we developed a restuarant application using two API's. Themealdb API was used to retrieve data from a remote server and the involvement API which was used to record the different user interactions (likes, comments and reservations).
 
 **Built With 🔨**
 
