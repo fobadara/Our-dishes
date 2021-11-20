@@ -4,7 +4,7 @@
 
 ![screenshot](./media/screenshot.png)
 
-## [Live Demo](https://fobadara.github.io/Our-dishes/)
+## [Live Demo](https://fobadara.github.io/Our-dishes/dist)
 
 
 In this project we developed a restuarant application using two API's. Themealdb API was used to retrieve data from a remote server and the involvement API which was used to record the different user interactions (likes, comments and reservations).
