@@ -1,5 +1,7 @@
 ### JavaScript Capstone
 
+- This is our JavaScript Capstone Project.
+
 ## Description 🏗️
 
 ![screenshot](./media/screenshot.png)
@@ -29,6 +31,7 @@ In this project we developed a restuarant application using two API's. Themealdb
 To get a local copy up and running follow these simple example steps.
 
 > clone the app by running this command
+
 ```bash
 git clone https://github.com/fobadara/capstone-javascript.git
 ```
