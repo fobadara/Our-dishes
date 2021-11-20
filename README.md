@@ -1,11 +1,12 @@
 ### JavaScript Capstone
 
+- This is our JavaScript Capstone Project.
+
 ## Description 🏗️
 
 ![screenshot](./media/screenshot.png)
 
 ## [Live Demo](https://fobadara.github.io/Our-dishes/dist)
-
 
 In this project we developed a restuarant application using two API's. Themealdb API was used to retrieve data from a remote server and the involvement API which was used to record the different user interactions (likes, comments and reservations).
 
@@ -29,6 +30,7 @@ In this project we developed a restuarant application using two API's. Themealdb
 To get a local copy up and running follow these simple example steps.
 
 > clone the app by running this command
+
 ```bash
 git clone https://github.com/fobadara/capstone-javascript.git
 ```
