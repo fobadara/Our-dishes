@@ -89,6 +89,7 @@ ul li {
   align-items: center;
   box-shadow: 0 4px 8px 0 #08080833, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 10px;
+  height: 15rem;
 }
 
 .modal-content {

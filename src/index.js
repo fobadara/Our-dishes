@@ -11,9 +11,10 @@ const display = async (mealCategory, menuTarget) => {
   await fetch(`https://www.themealdb.com/api/json/v1/1/filter.php?c=${mealCategory}`)
     .then((res) => res.json())
     .then((data) => {
+      const newArray = data.meals.slice(4, 13);
       contentArea.innerHTML = '';
 
-      data.meals.forEach((el, index) => {
+      newArray.forEach((el, index) => {
         if (index <= 7) {
           mealLikes(el.idMeal).then((meallikes) => {
             const text = `<div class="col-lg-3 col-md-6 mb-3">
